@@ -16,5 +16,5 @@ En este ensayo se analizan dos casos actuales de hibridación del software: Kaho
 ---
 ## 📚 Caso 1: Kahoot! – Aprender jugando en la cultura del software  
 <p align="center">
-  <img src="kahoot-logo.png" width="300">
+  <img src="Kahoot-logo.jpg" width="300">
 </p>
