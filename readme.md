@@ -15,13 +15,15 @@ En este ensayo se analizan dos casos actuales de hibridación del software: Kaho
 
 ---
 ## 📚 Caso 1: Kahoot! – Aprender jugando en la cultura del software  
-<p align="center">
-  <img src="Kahoot-logo.jpg" width="300">
-  <em>Logo de Kahoot!.</em>
-</p>
+![Kahoot logo](imgs/Kahoot-logo.jpg)
+*Imagen 1: Logo de la aplicación Kahoot!*
+
 La plataforma gratuita de gamificación, **representa un claro ejemplo de hibridación** entre educación, videojuego y dinámica social. A primera vista, puede parecer una simple herramienta para crear cuestionarios, pero su diseño revela una integración mucho más compleja de elementos propios de distintos ámbitos.
 
 En primer lugar, Kahoot! incorpora la lógica de la gamificación. Elementos como puntuaciones, rankings en tiempo real, música y presión temporal transforman una actividad tradicionalmente pasiva (responder preguntas) en una experiencia dinámica y competitiva. Este enfoque introduce principios propios del videojuego dentro del contexto educativo.
+
+<img width="937" height="573" alt="jugar-Kahoot" src="https://github.com/user-attachments/assets/a2ddc538-3ff7-4684-9773-7696bc8b2f69" />
+*Imagen 2: Explicación de cómo crear un nuevo juego para Kahoot!*
 
 En segundo lugar, la plataforma añade una dimensión social. Kahoot! se utiliza normalmente en grupo, ya sea en aulas físicas o en entornos online. Los participantes comparten una experiencia simultánea, generando interacción, emoción colectiva y participación activa. De este modo, el aprendizaje deja de ser individual para convertirse en una experiencia compartida.
 
@@ -30,11 +32,17 @@ Desde la perspectiva de Manovich, Kahoot! puede entenderse como un **sistema bas
 Otro aspecto relevante es la automatización. El software gestiona automáticamente el tiempo, corrige respuestas, calcula puntuaciones y genera rankings en tiempo real. Esto reduce la intervención humana y convierte al sistema en un mediador activo del proceso educativo. Esto hace que Kahoot! no sea solo una herramienta educativa, sino una interfaz híbrida donde convergen aprendizaje, entretenimiento y socialización. Este tipo de plataformas ejemplifica cómo el software redefine prácticas culturales tradicionales, transformando la educación en una experiencia interactiva y participativa.
 
 ## 🎮 Caso 2: Wii Fit – El cuerpo como interfaz
+![Logo Wii Fit](imgs/Logo-wiifit.jpg)
+
+*Imagen 3: Logo de Wii Fit*
+
 Wii Fit introduce una **forma distinta de hibridación al combinar videojuego, ejercicio físico e interacción corporal**. A diferencia de los videojuegos tradicionales, donde la interacción se realiza mediante mandos, Wii Fit incorpora el cuerpo del usuario como elemento central de la interfaz.
 
 El uso de la Wii Balance Board permite registrar el peso, el equilibrio y los movimientos del usuario, transformando acciones físicas en datos digitales. Este proceso refleja uno de los conceptos clave de Manovich: la transcodificación, es decir, la traducción de fenómenos físicos en información computacional.
 
 Además, Wii Fit introduce la lógica del software en el ámbito del fitness. El ejercicio físico se organiza en forma de rutinas, niveles y objetivos, similares a los de un videojuego. El usuario recibe feedback constante a través de gráficos, puntuaciones y evaluaciones de rendimiento, lo que convierte la actividad física en una experiencia medible y estructurada.
+
+![Logo Wii Fit](imgs/jugar-wiifit.jpg)
 
 Otro aspecto importante es la hibridación entre entretenimiento y salud. Wii Fit transforma una actividad cotidiana como hacer ejercicio en una experiencia lúdica, accesible y motivadora. Esto amplía el público potencial, incluyendo personas que normalmente no se sentirían atraídas por el deporte tradicional.
 
@@ -51,6 +59,10 @@ Ambos casos muestran cómo el **software actúa como un punto de convergencia en
 Siguiendo las ideas de Manovich, podemos afirmar que la cultura contemporánea no se define por medios aislados, sino por sistemas híbridos donde el software integra múltiples funciones. Estas plataformas no solo combinan tecnologías, sino que también redefinen prácticas sociales, educativas y corporales.
 
 ---
+## Declaración uso de la IA
+Para la elaboración de esta tercera PEC 3, se recurrió puntualmente a herramientas de inteligencia artificial con el propósito de la revisión de estructura y sintáxis. Las intervenciones mediante ChatGPT se han llevado a cabo respetando las directrices establecidas en la asignatura.
+
+
 
 ## Referencias y bibliografía 
 
